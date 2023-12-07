@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlexBetween debe coincidir con el snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-1omog99"
+  />
+</DocumentFragment>
+`;

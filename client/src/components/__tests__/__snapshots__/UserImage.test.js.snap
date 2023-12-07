@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserImage debe coincidir con el snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-13gzsmf"
+  >
+    <img
+      alt="user"
+      height="60px"
+      src="http://localhost:3001/assets/test-image.jpg"
+      style="object-fit: cover; border-radius: 50%;"
+      width="60px"
+    />
+  </div>
+</DocumentFragment>
+`;
