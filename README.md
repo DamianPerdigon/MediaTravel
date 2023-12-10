@@ -4,12 +4,14 @@
 
 - [Introduction](#introduction)
 - [Technologies](#technologies)
+- [System Architecture](#system-architecture)
+- [System Requirements Specification](#system-requirements-specification)
+- [Comparative Analysis](#comparative-analysis)
+- [Functional Requirements](#functional-requirements)
+- [Non-Functional Requirements](#non-functional-requirements)
 - [Features](#features)
+- [Conclusion](#conclusion)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
