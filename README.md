@@ -13,6 +13,7 @@
 - [Conclusion](#conclusion)
 - [Installation](#installation)
 
+
 ## Introduction
 
 **Travel Media** is a unique social network designed for travel enthusiasts. It allows users to share their travel experiences, photos, and connect with fellow travelers. We offer two types of access: user and administrator, ensuring effective community management and enriching user experience.
@@ -80,13 +81,6 @@ To install this project, follow these steps:
 git clone https://github.com/DamianPerdigon/MediaTravel.git
 cd your-repo
 npm install
-
-
-Usage
-To start the server: node index.js // npm start
-
-Testing
-This project uses unit and snapshot testing to ensure code quality and consistency. To run the tests: npm test
 
 
 Usage
